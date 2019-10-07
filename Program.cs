@@ -18,7 +18,7 @@ namespace md5_hasher
             // Hash and return data by firstly converting it into bytes
             var md5HashedData = ComputeMD5Hash(Encoding.UTF8.GetBytes(data));
 
-            // Display the corresponding hash by firstly converting bytes to string
+            // Display the corresponding hash by firstly converting bytes into string
             Console.WriteLine("MD5 Hash: {0}", Convert.ToBase64String(md5HashedData));
         }
 
