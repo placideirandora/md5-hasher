@@ -2,7 +2,7 @@
 using System.Text;
 using System.Security.Cryptography;
 
-namespace crypto_practice
+namespace md5_hasher
 {
     class Program
     {
