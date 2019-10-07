@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/placideirandora/Coding/C#/crypto-practice/crypto-practice.csproj",
+      "projectUniqueName": "/Users/placideirandora/Coding/C#/md5-hasher/crypto-practice.csproj",
       "projectName": "crypto-practice",
-      "projectPath": "/Users/placideirandora/Coding/C#/crypto-practice/crypto-practice.csproj",
+      "projectPath": "/Users/placideirandora/Coding/C#/md5-hasher/crypto-practice.csproj",
       "packagesPath": "/Users/placideirandora/.nuget/packages/",
-      "outputPath": "/Users/placideirandora/Coding/C#/crypto-practice/obj/",
+      "outputPath": "/Users/placideirandora/Coding/C#/md5-hasher/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/placideirandora/.nuget/NuGet/NuGet.Config"
