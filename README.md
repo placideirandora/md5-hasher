@@ -6,7 +6,7 @@ A C#.NET Console Application That Hashes Data With MD5 Hashing Algorithm.
 ### Clone The Project
 
 ```
-$ git clone https://github.com/placideirandora/md5-hasher-with-c-sharp
+$ git clone https://github.com/placiderapson/md5-hasher-with-c-sharp
 ```
 
 ### Install C# Extension
